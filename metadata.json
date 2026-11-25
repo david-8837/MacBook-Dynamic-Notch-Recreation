@@ -1,0 +1,6 @@
+{
+  "name": "MacBook Dynamic Notch Recreation",
+  "description": "Interactive preview of the MacBook Dynamic Notch with companion AI expressions, music & live lyrics split-view, focus timer, water tracker, shelf, clipboard, to-do list, and widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
